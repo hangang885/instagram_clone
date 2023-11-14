@@ -1,4 +1,4 @@
-package hangang.clone.app.instargram_clone
+package hangang.clone.app.instagram_clone
 
 import io.flutter.embedding.android.FlutterActivity
 
